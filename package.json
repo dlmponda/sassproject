@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Daniel Mponda",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.26.5"
+  }
 }
